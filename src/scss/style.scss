@@ -1,0 +1,12 @@
+$color: red;
+
+body {
+   font-size: 1.9em;
+}
+
+.klasa {
+   background-color: $color;
+   height: 50px;
+   width: 100px;
+   border-radius: 5px;
+}

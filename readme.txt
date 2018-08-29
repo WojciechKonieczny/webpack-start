@@ -3,3 +3,4 @@
 
 npm run dev - odpalenie live demo
 npm run build - budowanie projektu
+src/index.js -> importowaæ wszystkie *.scss, *.css, *.js
